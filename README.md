@@ -1,9 +1,7 @@
 ## Oiii eu sou Desenvolvedor johnny Edson Lopes Costa
 <div align="center">
- 
+
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnnypbs18&show_icons=true&theme=midnight-purple)
-
-
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnnypbs18&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 <div style="display: inline_block"><br>
