@@ -1,4 +1,5 @@
-## Oi eu sou a Johnny Edson Lopes Costa, Desenvolvedor de software focado nas melhores tecnologias de desenvolvimento Web e Mobile.
+### 👋📚 Oi eu sou a Johnny Edson Lopes Costa, Desenvolvedor de software focado nas melhores tecnologias de desenvolvimento Web e Mobile.
+
 <div align="center">
   <a href="https://github.com/johnnypbs18">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=johnnypbs18&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
