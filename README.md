@@ -1,4 +1,4 @@
-## Oiii eu sou Desenvolvedor johnny Edson Lopes Costa
+## Oi eu sou Desenvolvedor johnny Edson Lopes Costa
 <div align="center">
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnnypbs18&show_icons=true&theme=midnight-purple)
